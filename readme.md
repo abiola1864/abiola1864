@@ -20,6 +20,8 @@ University of California, Berkeley.
 [Spiced Picture]( https://media.istockphoto.com/photos/red-peppers-on-white-background-picture-id1124401100?k=20&m=1124401100&s=612x612&w=0&h=BnSvEN3zrvg5Kcjh7sNH8QmGFCcvk9s2resGUyAizqU=)
 
 
+
+
 ## My Programming Skill Sets
 
 *I am always trying to learn new stuffs but for now, here is what I am with programming*
@@ -30,3 +32,14 @@ University of California, Berkeley.
 | R | Intermediate |
 | Python | Beginner+ |
 | HTML | Just Starting :) |
+
+
+
+## :memo: Blog
+* I go featured in few blogs
+<!-- BLOG-POST-LIST:START -->
+- [UC Berkeley CEGA on development in Africa](https://medium.com/center-for-effective-global-action/building-capacity-in-international-development-insights-from-wgape-a39606c93a06)
+- [Sometimes I write on Politics](https://www.scripts-berlin.eu/blog/Blog-28-Vaccine-Nationalism_-Focus-on-Africa/index.html)
+
+<!-- BLOG-POST-LIST:END -->
+
