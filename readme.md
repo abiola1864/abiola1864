@@ -22,7 +22,7 @@ University of California, Berkeley.
 
 ## My Programming Skill Sets
 
-**I am always trying to learn new stuffs but for now, here is what I am with programming**
+*I am always trying to learn new stuffs but for now, here is what I am with programming
 
 
 | Language | Level |
