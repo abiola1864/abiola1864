@@ -36,7 +36,7 @@ University of California, Berkeley.
 
 
 ## :memo: Blog
-* I go featured in few blogs
+*I get featured on a few blogs:
 <!-- BLOG-POST-LIST:START -->
 - [UC Berkeley CEGA on development in Africa](https://medium.com/center-for-effective-global-action/building-capacity-in-international-development-insights-from-wgape-a39606c93a06)
 - [Sometimes I write on Politics](https://www.scripts-berlin.eu/blog/Blog-28-Vaccine-Nationalism_-Focus-on-Africa/index.html)
