@@ -1,7 +1,7 @@
 ## About Abiola
 
 * **Know more about Me:** Just that guy who is trying to learn a lit
-* **Get to know my skills:** I am learning to use HTML now, stay tuned.
+* **Get to know my skills:** React, CSS, JS, MongoDB, R, Python.
 * **What I do off work:** Yes, I can tell what I do when I am not doing anything
 [Learn how more about me here](https://abiola1864.github.io/).
 
@@ -29,9 +29,9 @@ University of California, Berkeley.
 
 | Language | Level |
 | ----------- | ----------- |
-| R | Intermediate |
-| Python | Beginner+ |
-| HTML | Just Starting :) |
+| R | Expert |
+| React JS | Intermediate + |
+|  Python| Intermediate |
 
 
 
