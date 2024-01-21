@@ -31,7 +31,7 @@ Abiola Oyebanjo, recently concluded my nomad—roaming at Humboldt University, B
 | CSS        | Style Artisan      | Infusing aesthetics into the digital canvas      |
 
 
-Explore my web digital creations:
+**Explore my web digital creations:**
 
 - **[Kaku: Record-Keeping App](https://kaku-revised-5rn85r6dl-abiola1864.vercel.app/category/myshop):** Unveiling a seamless experience for record-keeping for small firms in the Global South. 📊
 
