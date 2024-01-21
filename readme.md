@@ -1,6 +1,6 @@
 ## 👨‍💻 About Abiola
 
-- **Unlock My Secrets:** Aspiring polymath diving deep into the realms of technology, coding, and beyond. 🕵️‍♂️
+- **Unlock My Secrets:** Social genius diving deep into the realms of technology, coding, and beyond for solving social problems. 🕵️‍♂️
 - **Weapons of Choice:** Mastering the arts of React, CSS, JS, MongoDB, R, Python, LaTeX, Tableau, Stata, SQL, and HTML. ⚔️
 - **Off the Grid:** Decrypting life's mysteries when not immersed in code. [Discover more](https://abiola1864.github.io/).
 
