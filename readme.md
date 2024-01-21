@@ -33,15 +33,11 @@ Abiola Oyebanjo, recently concluded my nomad—roaming at Humboldt University, B
 
 Explore my web digital creations:
 
-- **[Kaku: Record-Keeping App](https://kaku-revised-5rn85r6dl-abiola1864.vercel.app/category/myshop):** Unveiling a seamless experience for record-keeping. 📊
+- **[Kaku: Record-Keeping App](https://kaku-revised-5rn85r6dl-abiola1864.vercel.app/category/myshop):** Unveiling a seamless experience for record-keeping for small firms in the Global South. 📊
 
-- **[EmpowerLocals: Nonprofit Tech Hub](https://www.empowerlocals.org):** Nurturing a tech-based NGO. 🌐
-
-
+- **[EmpowerLocals: Nonprofit Tech Hub](https://www.empowerlocals.org):** Created a great landing page a tech-based NGO. 🌐
 
 
-
-https://kaku-revised-5rn85r6dl-abiola1864.vercel.app/category/myshop
 ## 📝 Chronicles from the Digital Realm
 
 *I occasionally transmit insights:*
