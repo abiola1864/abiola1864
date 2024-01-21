@@ -13,11 +13,7 @@ Abiola Oyebanjo, recently concluded my nomad—roaming at Humboldt University, B
 - Dive into my [Linkedin Matrix](https://www.linkedin.com/in/oyebanjoabiola/).
 - Decode my [Twitter Scrolls](https://twitter.com/abiola1864) for unfiltered tech thoughts.
 
-**Peek into My Binary Canvas**
-
-![Spiced Picture](https://media.istockphoto.com/photos/red-peppers-on-white-background-picture-id1124401100?k=20&m=1124401100&s=612x612&w=0&h=BnSvEN3zrvg5Kcjh7sNH8QmGFCcvk9s2resGUyAizqU=)
-
-## 💻 My Programming Arsenal
+**Peek into My Programming Arsenal:**
 
 *I'm on a perpetual quest for knowledge; here's my current toolkit:*
 
