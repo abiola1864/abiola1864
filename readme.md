@@ -1,12 +1,12 @@
 ## 👨‍💻 About Abiola
 
-- **Unlock My Secrets:** Social genius diving deep into the realms of technology, coding, and beyond for solving social problems. 🕵️‍♂️
+- **Unlock My Secrets:** Social genius diving deep into the realms of technology, coding, and beyond to solve social problems. 🕵️‍♂️
 - **Weapons of Choice:** Mastering the arts of React, CSS, JS, MongoDB, R, Python, LaTeX, Tableau, Stata, SQL, and HTML. ⚔️
 - **Off the Grid:** Decrypting life's mysteries when not immersed in code. [Discover more](https://abiola1864.github.io/).
 
 ## 🚀 Welcome to My Digital Oasis
 
-Abiola Oyebanjo, the binary nomad—roaming Humboldt University, Berlin, and a digital scholar at the Center for Effective Global Action, University of California, Berkeley.
+Abiola Oyebanjo, recently concluded my nomad—roaming at Humboldt University, Berlin, Empowerment for Local People Foundation and a computational social science scholar at the Center for Effective Global Action, University of California, Berkeley.
 
 **Connect with My Digital Echo:**
 
@@ -34,6 +34,18 @@ Abiola Oyebanjo, the binary nomad—roaming Humboldt University, Berlin, and a d
 | HTML       | Markup Maven       | Crafting the structure of the digital realm      |
 | CSS        | Style Artisan      | Infusing aesthetics into the digital canvas      |
 
+
+Explore my digital creations:
+
+- **[Kaku: Record-Keeping App](https://kaku-revised-5rn85r6dl-abiola1864.vercel.app/category/myshop):** Unveiling a seamless experience for record-keeping. 📊
+
+- **[EmpowerLocals: Nonprofit Tech Hub](https://www.empowerlocals.org):** Nurturing a tech-based NGO. 🌐
+- 
+
+
+
+
+https://kaku-revised-5rn85r6dl-abiola1864.vercel.app/category/myshop
 ## 📝 Chronicles from the Digital Realm
 
 *I occasionally transmit insights:*
